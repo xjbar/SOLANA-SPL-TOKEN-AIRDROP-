@@ -13,7 +13,7 @@ Your txt file for airdropping needs to be formatted like this
 
 **Example**
 
-![Alt Image text](https://i.imgur.com/IrdbzIX.jpeg "")
+![Alt Image text](https://i.imgur.com/o2VAjRB.jpg "")
 
 ## **HOW TO RUN:**
 

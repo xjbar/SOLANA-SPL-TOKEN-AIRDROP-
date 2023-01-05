@@ -3,13 +3,13 @@
 
 ## **PREREQUISITES:**
 
-Dependencies:
 - Python 3
 - Solana (install at https://docs.solana.com/cli/install-solana-cli-tools)
 - a .txt file that includes all of the wallet addresses you want to airdrop to
 
-Your txt file for airdropping needs to be formatted like this 
-**[WALLET ADDRESS] [AMOUNT TO AIRDROP]**.
+Your txt file needs to be formatted like this:
+
+`[WALLET ADDRESS] [AMOUNT TO AIRDROP]`
 
 **Example**
 
